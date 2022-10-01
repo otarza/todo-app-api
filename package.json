@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-api",
+  "version": "1.0.0",
+  "description": "Todo App api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/otarza/todo-app-api.git"
+  },
+  "author": "otarza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otarza/todo-app-api/issues"
+  },
+  "homepage": "https://github.com/otarza/todo-app-api#readme"
+}
